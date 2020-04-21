@@ -17,7 +17,7 @@ margin: 8px 0;
 padding: 7px 10px; 
 display: inline-block; 
 border:1px solid #ccc;
-box-sizing: border-box;
+box-sizing: border-box; 
 }
 
 button{
