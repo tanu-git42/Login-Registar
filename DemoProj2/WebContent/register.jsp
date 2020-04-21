@@ -14,7 +14,7 @@ align: center;
 input[type=text],[type=password],[type=number]{
 width: 20%;
 margin: 8px 0;
-padding: 7px 10px;
+padding: 7px 10px; 
 display: inline-block; 
 border:1px solid #ccc;
 box-sizing: border-box;
